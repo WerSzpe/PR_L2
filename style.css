@@ -1,6 +1,16 @@
 * {
     background-color: #dbf1ee;
 }
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+}
+.navbar a{
+    padding-left: 10px;
+    padding-right: 10px;
+}
 
 #sel2 {
     margin-bottom: 0.75rem;
